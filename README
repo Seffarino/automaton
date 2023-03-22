@@ -1,0 +1,11 @@
+Bachelor's Degree Project
+
+HOW TO USE :
+1) ADD GOOGLE TEST FOLDER IN ROOT FOLDER
+2) MKDIR build , cd build
+3) CMAKE ..
+4) make
+5) ./testfa
+
+GRADES : IMPLEM = 15/20
+         TEST = 18/20
