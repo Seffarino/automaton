@@ -6,6 +6,3 @@ HOW TO USE :
 3) CMAKE ..
 4) make
 5) ./testfa
-
-GRADES : IMPLEM = 15/20
-         TEST = 18/20
